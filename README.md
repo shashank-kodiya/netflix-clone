@@ -17,9 +17,5 @@ This project focuses on UI design and responsiveness to replicate the look and f
 ## 🛠️ Tech Stack
 
 - **HTML5**  
-- **CSS3**  
-
----
-
-## 📂 Project Structure
+- **CSS3**
 
